@@ -1,6 +1,7 @@
 # How to work with scholar papers
 
-The repository contains slides to be presented at DataFest'2, OK16, Minsk,
+The repository contains slides to be presented at
+[DataFest'2](https://datafest.by/), OK16, Minsk,
 Belarus, May 19, 2018
 
 ## Abstract
@@ -17,7 +18,8 @@ various ways and how to work with papers in prcatice.
 
 ## Как работать с научными статьями
 
-*Слайды доклада на конференции DataFest'2, OK16, Минск, Беларусь, 19 мая 2018*
+*Слайды доклада на конференции [DataFest'2](https://datafest.by/), OK16, Минск,
+Беларусь, 19 мая 2018*
 
 Для того, чтобы подобрать хороший алгоритм или модель для работы с данными,
 зачастую приходится обработать десятки, а то и сотни статей из arXiv.org,
