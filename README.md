@@ -14,6 +14,8 @@ In this talk, I discuss how the scholar paper are being written, where and how
 to search for the papers, what's the difference between papers published in
 various ways and how to work with papers in prcatice.
 
+Video (in Russian): https://youtu.be/HuJyLIis6ts 
+
 # По русски
 
 ## Как работать с научными статьями
@@ -28,3 +30,5 @@ NIPS и массы других мест. Но как оценить, наско
 В своем докладе, я рассказываю о том, как пишут научные статьи, где и как их
 искать, чем отличаются публикации из разнных источников и как работать со
 статьями на практике.
+
+Видео: https://youtu.be/HuJyLIis6ts
