@@ -14,6 +14,8 @@ In this talk, I discuss how the scholar paper are being written, where and how
 to search for the papers, what's the difference between papers published in
 various ways and how to work with papers in prcatice.
 
+Slide view: [nbviewer](https://nbviewer.jupyter.org/format/slides/github/karelin/sci_papers_talk/blob/master/Working%20with%20scientific%20literature.ipynb#/)
+
 Video (in Russian): https://youtu.be/HuJyLIis6ts 
 
 # По русски
@@ -30,5 +32,7 @@ NIPS и массы других мест. Но как оценить, наско
 В своем докладе, я рассказываю о том, как пишут научные статьи, где и как их
 искать, чем отличаются публикации из разнных источников и как работать со
 статьями на практике.
+
+Просмомотр слайдов: [nbviewer](https://nbviewer.jupyter.org/format/slides/github/karelin/sci_papers_talk/blob/master/Working%20with%20scientific%20literature.ipynb#/)
 
 Видео: https://youtu.be/HuJyLIis6ts
